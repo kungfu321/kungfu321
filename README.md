@@ -10,6 +10,8 @@ Besides developing, I also run a [YouTube channel](https://www.youtube.com/chann
 
 [![Tamagui](https://github-readme-stats.vercel.app/api/pin/?username=tamagui&repo=tamagui&theme=dark&show_owner=true)](https://github.com/tamagui/tamagui/pull/170)
 
+[![HonoJS](https://github-readme-stats.vercel.app/api/pin/?username=honojs&repo=website&theme=dark&show_owner=true)](https://github.com/honojs/website/pull/620)
+
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
