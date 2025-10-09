@@ -2,9 +2,6 @@
 Full Stack Developer with 7+ years of experience.  
 I am focusing on E-Commerce projects. Familiar with both remote and in-office roles. Comfortable with web, mobile, and API development.
 
-## 📚 Writing
-Besides developing, I also run a [YouTube channel](https://www.youtube.com/channel/UCQPBUYsWKX5RVUc_QWn51hA).
-
 ## 💻 Interesting Contributions
 [![Clerk Dev](https://github-readme-stats.vercel.app/api/pin/?username=clerkinc&repo=javascript&theme=dark&show_owner=true)](https://github.com/clerkinc/javascript/pull/1409)
 
